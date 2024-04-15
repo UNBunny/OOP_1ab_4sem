@@ -1,4 +1,5 @@
 <img src="https://github.com/UNBunny/OOP_1ab_4sem/assets/112119548/637dad8b-0e5e-434e-b88e-d22952ccdb4b" width="400">
+<img src="https://github.com/UNBunny/OOP_1ab_4sem/assets/112119548/60780e85-957f-4984-9990-7859a33e8905" width="400">
 <img src="https://github.com/UNBunny/OOP_1ab_4sem/assets/112119548/d3339b96-153b-44a4-b876-5bb9ef8a4864" width="400">
 <img src="https://github.com/UNBunny/OOP_1ab_4sem/assets/112119548/50996ca9-cc24-42f5-99df-9ced7aba546c" width="400">
 
