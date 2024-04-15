@@ -14,7 +14,7 @@
         <option value="sphere">Сфера</option>
         <option value="tetrahedron">Тетраэдр</option>
         <option value="torus">Тор</option>
-        <option value="ellipsoid">эллипсоид</option>
+        <option value="ellipsoid">Эллипсоид</option>
     </select>
     <br>
     Укажите точность (количество знаков после запятой): <input type="text" name="precision"><br>
@@ -25,7 +25,7 @@
 </form>
 
 <script>
-    document.querySelector('select[name="shape"]').addEventListener('change', function() {
+    document.querySelector('select[name="shape"]').addEventListener('change', function () {
         var shape = this.value;
         var parametersDiv = document.getElementById('parameters');
         parametersDiv.innerHTML = "";
